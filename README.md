@@ -82,6 +82,6 @@ The last two pages of each Kindred detail section in the DPB feature several tab
 
 1. Kindred Background: the cell for this in the character sheet has the header Failed Career; it's the job you had before your adventuring career began
 2. Kindred Trinket: a kindred-unique starting item; add this to your inventory
-3. Desires: the goal your PC has been focused on or working toward prior to` the beginning of the campaign
+3. Desires: the goal your PC has been focused on or working toward prior to the beginning of the campaign
 
 \*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Bonds from Cairn 2e but with a Dolmenwood flavor.
