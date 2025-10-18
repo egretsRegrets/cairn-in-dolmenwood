@@ -47,7 +47,7 @@ The first page of each Kindred detail section in the DPB includes a formula for 
 
 #### Starting Languages
 
-Each PC begins with a working knowledge of two languages: Woldish—the common tongue in Dolmenwood—and a language widely used by the PC's kindred. Most Humans in Dolmenwood only know Woldish; Human PCs will begin with Woldish and one additional random language.
+Each PC begins with a working knowledge of two languages: Woldish—the common tongue in Dolmenwood—and a language particular to that PC's kindred. Most Humans in Dolmenwood only know Woldish; Human PCs will begin with Woldish and one additional random language.
 
 | Kindred   | Starting Languages              |
 | --------- | ------------------------------- |
