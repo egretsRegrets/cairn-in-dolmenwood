@@ -68,7 +68,7 @@ Each PC begins with a working knowledge of two languages: Woldish—the common t
 | 5   | Old Woldish | Ancient language                    |
 | 6   | Sylvan      | Demi-fey common tongue              |
 
-#### Roll, Choose or Make Up a name
+#### Name
 
 The first page of each Kindred detail section in the DPB includes a d20 list of names, as well as a paragraph describing how members of that kindred are named or use names; for some kindred, Male, Female and Unisex first names are listed, while for others, names are grouped by different conventions.
 
