@@ -71,6 +71,7 @@ Each PC begins with a working knowledge of two languages: Woldish—the common t
 #### Roll, Choose or Make Up a name
 
 The first page of each Kindred detail section in the DPB includes a d20 list of names, as well as a paragraph describing how members of that kindred are named or use names; for some kindred, Male, Female and Unisex first names are listed, while for others, names are grouped by different conventions.
+
 Roll, choose or make up a name.
 
 If you're having trouble deciding your character's name based on kindred, each Background in the CPG contains a list of names which you may use if you prefer.
