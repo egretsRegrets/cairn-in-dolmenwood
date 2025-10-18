@@ -1,11 +1,12 @@
 ## Acronyms
 
 Character creation in this Cairn + Dolmenwood game requires frequent recourse to two books: the Cairn 2e Players Guide and the Dolmenwood Players Book.
-From here on out
+From here on out:
 
 - the _Cairn 2e Players Guide_ is referred to as the **CPG**.
 - the _Dolmenwood Players Book_ is referred to as the **DPB**
-  If these books haven't been provided to you or you can't find them, please ask Sam.
+
+If these books haven't been provided to you or you can't find them, please ask Sam.
 
 ## Background and Starting Items
 
