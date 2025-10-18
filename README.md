@@ -72,7 +72,7 @@ Each PC begins with working knowledge of two languages: Woldish—the common ton
 The first page of each Kindred detail section in the DPB includes a d20 list of names, as well as a paragraph describing how members of that kindred are named or use names; some kindred list Male, Female and Unisex first names, while others group names by different conventions.
 Roll, choose or make up a name. If you're having trouble deciding your character's name, each Background in the CPG contains a list of names which you may use if you prefer.
 
-### Failed Career, Trinket, Personality, and Appearance
+#### Failed Career, Trinket, Personality, and Appearance
 
 The last two pages of each Kindred detail section in the DPB feature several tables which can be used to flesh out your PC's history, appearance, and personality.These are largely optional and inspirational, however three of these are more important and shouldn't be skipped\*: be sure to roll the following:
 
