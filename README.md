@@ -44,7 +44,7 @@ The first page of each Kindred detail section in the DPB includes a formula for 
 
 #### Starting Languages
 
-Each PC begins with working knowledge of two languages: Woldish—the common tongue in Dolmenwood—and a language common to that PC's kindred. Most Humans in Dolmenwood only know Woldish; Human PCs will begin with Woldish and one additional random language.
+Each PC begins with a working knowledge of two languages: Woldish—the common tongue in Dolmenwood—and a language widely used by the PC's kindred. Most Humans in Dolmenwood only know Woldish; Human PCs will begin with Woldish and one additional random language.
 
 | Kindred   | Starting Languages              |
 | --------- | ------------------------------- |
@@ -57,26 +57,27 @@ Each PC begins with working knowledge of two languages: Woldish—the common ton
 
 ##### Random Language (for Human PCs)
 
-| d6  | Languages   | Notes                                  |
-| --- | ----------- | -------------------------------------- |
-| 1   | Dwelve      | Common tongue of Dolmenwood underworld |
-| 2-3 | Gaffe       | Breggle common tongue                  |
-| 4   | Liturgic    | Pluritine Church scriptural tongue     |
-| 5   | Old Woldish | Ancient language                       |
-| 6   | Sylvan      | Demi-fey common tongue                 |
+| d6  | Languages   | Notes                               |
+| --- | ----------- | ----------------------------------- |
+| 1   | Dwelve      | Language of Dolmenwood's underworld |
+| 2-3 | Gaffe       | Breggle common tongue               |
+| 4   | Liturgic    | Pluritine Church scriptural tongue  |
+| 5   | Old Woldish | Ancient language                    |
+| 6   | Sylvan      | Demi-fey common tongue              |
 
 #### Roll, Choose or Make Up a name
 
-The first page of each Kindred detail section in the DPB includes a d20 list of names, as well as a paragraph describing how members of that kindred are named or use names; some kindred list Male, Female and Unisex first names, while others group names by different conventions.
-Roll, choose or make up a name. If you're having trouble deciding your character's name, each Background in the CPG contains a list of names which you may use if you prefer.
+The first page of each Kindred detail section in the DPB includes a d20 list of names, as well as a paragraph describing how members of that kindred are named or use names; for some kindred, Male, Female and Unisex first names are listed, while for others, names are grouped by different conventions.
+Roll, choose or make up a name.
+
+If you're having trouble deciding your character's name based on kindred, each Background in the CPG contains a list of names which you may use if you prefer.
 
 #### Failed Career, Trinket, Personality, and Appearance
 
-The last two pages of each Kindred detail section in the DPB feature several tables which can be used to flesh out your PC's history, appearance, and personality.These are largely optional and inspirational, however three of these are more important and shouldn't be skipped\*: be sure to roll the following:
+The last two pages of each Kindred detail section in the DPB feature several tables which can be used to flesh out your PC's history, appearance, and personality. These are largely optional and inspirational, however three of these are more important and shouldn't be skipped\*: be sure to roll the following:
 
 1. Kindred Background: the cell for this in the character sheet has the header Failed Career; it's the job you had before your career in adventuring began
 2. Kindred Trinket: a kindred-unique starting item; add this to your inventory
 3. Desires: the goal your PC has been working toward, or is desirous of, at the beginning of the campaign
-   The rest of these additional starting details can be added to the Traits section of the character sheet
 
-\*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Bonds from Cairn 2e
+\*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Bonds from Cairn 2e but with a Dolmenwood flavor.
