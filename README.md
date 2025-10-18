@@ -1,5 +1,3 @@
-# Character Creation Summary
-
 ## Acronyms
 
 Character creation in this Cairn + Dolmenwood game requires frequent recourse to two books: the Cairn 2e Players Guide and the Dolmenwood Players Book.
@@ -9,15 +7,15 @@ From here on out
 - the _Dolmenwood Players Book_ is referred to as the **DPB**
   If these books haven't been provided to you or you can't find them, please ask Sam.
 
-## Background & Starting Items
+## Background and Starting Items
 
 Roll or Choose a background as outlined on pg. 8 of the CPG; _do not_ select a character name from your background—unless you see one you really like. Your background will include your starting gear and two background-unique tables, which will fill out your character's history and add additional starting items.
 
 - All PCs start with a backpack, which does not take up a slot
 
-## Attributes, and Hit Protection
+## Attributes and Hit Protection
 
-Roll your Attributes and Hit Protection. In the character sheet, HP _and_ Attributes will all have a Total and Current value; when creating your character these values will be the same. For more info on Attributes see CPG pg. 9 & 62.
+Roll your Attributes and Hit Protection. In the character sheet, HP _and_ Attributes will each have a Total and Current value; when creating your character these values will be the same. For more info on Attributes see CPG pg. 9 & 62.
 
 - Roll 3d6 for each of your attributes, in order: Strength (STR), Dexterity (DEX), and Willpower (WIL).
   - You may swap any two results.
@@ -25,9 +23,9 @@ Roll your Attributes and Hit Protection. In the character sheet, HP _and_ Attrib
 
 ## Kindred
 
-### Pick or Roll a Kindred
+### Choosing a Kindred
 
-For more information on Kindred see DPB pg. 30-31 (additional info pg. 32-53). Kindred will be treated as mechanically identical but each belong to a unique cultural context within Dolmenwood and may have very different starting _beliefs_ and _desires_ according to those cultures.
+Kindred are the different folk inhabbiting Dolmenwood. For more information on Kindred see DPB pg. 30-31 (detailed info for each on pg. 32-53). Kindred will be treated as mechanically identical but each belong to a unique cultural context within Dolmenwood; PCs will have very different former _careers_, starting _desires_, _trinkets_, and more according to their kindred.
 
 | d6  | Kindred   | Detail Pages (in DPB) |
 | --- | --------- | --------------------- |
@@ -81,6 +79,4 @@ The last two pages of each Kindred detail section in the DPB feature several tab
 3. Desires: the goal your PC has been working toward, or is desirous of, at the beginning of the campaign
    The rest of these additional starting details can be added to the Traits section of the character sheet
 
-\*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Cairn 2e Bonds
-
----
+\*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Bonds from Cairn 2e
