@@ -28,6 +28,8 @@ Roll your Attributes and Hit Protection. In the character sheet, HP _and_ Attrib
 
 Kindred are the different folk inhabbiting Dolmenwood. For more information on Kindred see DPB pg. 30-31 (detailed info for each on pg. 32-53). Kindred will be treated as mechanically identical but each belong to a unique cultural context within Dolmenwood; PCs will have very different former _careers_, starting _desires_, _trinkets_, and more according to their kindred.
 
+Roll or choose a kindred.
+
 | d6  | Kindred   | Detail Pages (in DPB) |
 | --- | --------- | --------------------- |
 | 1   | Breggle   | 32-35                 |
