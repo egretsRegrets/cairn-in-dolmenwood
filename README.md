@@ -8,6 +8,10 @@ From here on out:
 
 If these books haven't been provided to you or you can't find them, please ask Sam.
 
+## Character Sheets
+
+Character sheets are kept in a shared character keeper, using google sheets—this is linked in the discord server. The character keeper includes a template sheet that you should duplicate (_right click_ sheet tab -> _click_ Duplicate from the menu) and fill as you create your character. There is also an example character sheet for reference. Finally, there is a sheet for inventory not directly carried by players, called Transport, Carts and Shared Inventory, which you can use to note items stored in external containers (in handcarts, on pack animals, carried by hirelings, etc.).
+
 ## Background and Starting Items
 
 Roll or Choose a background as outlined on pg. 8 of the CPG; _do not_ select a character name from your background—unless you see one you really like. Your background will include your starting gear and two background-unique tables, which will fill out your character's history and add additional starting items.
@@ -16,7 +20,7 @@ Roll or Choose a background as outlined on pg. 8 of the CPG; _do not_ select a c
 
 ## Attributes and Hit Protection
 
-Roll your Attributes and Hit Protection. In the character sheet, HP _and_ Attributes will each have a Total and Current value; when creating your character these values will be the same. For more info on Attributes see CPG pg. 9 & 62.
+In the character sheet, HP _and_ Attributes will each have a Total and Current value; when creating your character these values will be the same. For more info on Attributes see CPG pg. 9 & 62.
 
 - Roll 3d6 for each of your attributes, in order: Strength (STR), Dexterity (DEX), and Willpower (WIL).
   - You may swap any two results.
@@ -85,3 +89,7 @@ The last two pages of each Kindred detail section in the DPB feature several tab
 3. Desires: the goal your PC has been focused on or working toward prior to the beginning of the campaign
 
 \*The hope is that these three starting details—Failed Career, Trinket and Desires—serve to take the place of the Bonds from Cairn 2e but with a Dolmenwood flavor.
+
+#### Fey Kindred and Cold Iron
+
+Fey kindred characters—Elves and Grimalkins—are weak to cold iron weapons; the damage dice of these weapons is _Enhanced_ when targeting fey kindred characters. This applies to PCs an NPCs alike.
