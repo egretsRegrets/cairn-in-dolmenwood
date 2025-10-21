@@ -92,4 +92,4 @@ The last two pages of each Kindred detail section in the DPB feature several tab
 
 #### Fey Kindred and Cold Iron
 
-Fey kindred characters—Elves and Grimalkins—are weak to cold iron weapons; the damage dice of these weapons is _Enhanced_ when targeting fey kindred characters. This applies to PCs an NPCs alike.
+Fey kindred characters—Elves and Grimalkins—are weak to cold iron weapons; the damage dice of these weapons is _Enhanced_ when targeting fey kindred characters. This applies to PCs and NPCs alike.
